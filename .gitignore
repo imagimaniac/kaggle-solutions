@@ -1,0 +1,17 @@
+# Data (large / licence-restricted)
+data/
+data*/
+original_data/
+models/
+output/
+catboost_info/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.venv/
+venv/
+
+# OS
+.DS_Store
